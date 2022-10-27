@@ -1,3 +1,1 @@
 #CTFProblems
-
-Course UGRA-CTF-PROBLEMSET
